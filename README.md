@@ -74,4 +74,4 @@ cook [options] [command]
 
 ## About the Author
 
-TaskScribe was created by [Samuel Orobosa Amagbkahen](https://samuelorobosa.vercel.app/), a passionate developer dedicated to simplifying your task management experience. For more information about Samuel and his other projects, visit his [website](https://samuelorobosa.vercel.app/).
+TaskScribe was created by [Samuel Orobosa Amagbakhen](https://samuelorobosa.vercel.app/), a passionate developer dedicated to simplifying your task management experience. For more information about Samuel and his other projects, visit his [website](https://samuelorobosa.vercel.app/).
