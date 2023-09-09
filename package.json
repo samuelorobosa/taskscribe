@@ -1,6 +1,6 @@
 {
   "name": "taskscribe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI task management tool",
   "main": "./index.js",
   "type": "module",
