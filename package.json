@@ -1,0 +1,22 @@
+{
+  "name": "taskscribe",
+  "version": "1.0.0",
+  "description": "A simple CLI task management tool",
+  "main": "./index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "cook": "./index.js"
+  },
+  "author": "Samuel Orobosa Amagbakhen",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0"
+  }
+}
